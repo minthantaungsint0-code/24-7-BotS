@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SimpleMc-SMP.aternos.me:51217",
+    "ip": "SimpleMc-SMP.aternos.me:",
     "port": 51217,
     "version": "",
     "try-creative": false
